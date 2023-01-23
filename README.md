@@ -2,6 +2,13 @@
 
 This repository contains the code for a PID-based flight controller implemented in MicroPython for a QuadCopter. The controller utilizes sensor data to implement real-time control algorithms for stable flight.
 
+## Flight Video
+
+
+https://user-images.githubusercontent.com/30761130/213992765-260f84b3-e6ee-4b26-9c5a-9f0cd5bce997.MP4
+
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your MicroPython supported board for testing and development purposes.
