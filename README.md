@@ -52,3 +52,6 @@ To run the flight controller, make sure you have properly connected the ESCs and
 5. Take off the QuadCopter and fly it around.
 6. Land the QuadCopter and disarm the flight controller board by turning off the transmitter and flipping the ARM switch on the transmitter. Then, disconnect the battery from the flight controller board.
 
+## Contributors
+1. [Rhythm Chandak](https://www.linkedin.com/in/rhythm-chandak-89a386168/)
+2. [Yog Dharaskar](https://www.linkedin.com/in/yog-dharaskar/)
